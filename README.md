@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+🌱 I’m currently studying for the AZ-104 to learn more about Azure Administration
+
+📫 How to reach me: LinkedIn: https://www.linkedin.com/in/tristenligon/
+
+
 <!--
 **tristenligon/tristenligon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
