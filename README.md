@@ -2,7 +2,7 @@
 
 🌱 I’m currently studying for the AZ-104 to learn more about Azure Administration
 
-📫 How to reach me: LinkedIn: https://www.linkedin.com/in/tristenligon/
+📫 How to reach me: https://www.linkedin.com/in/tristenligon/
 
 
 <!--
